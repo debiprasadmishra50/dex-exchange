@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.91c86a65.chunk.css",
-  "main.js": "/static/js/main.0242feda.chunk.js",
-  "main.js.map": "/static/js/main.0242feda.chunk.js.map",
-  "static/css/1.d6da65c5.chunk.css": "/static/css/1.d6da65c5.chunk.css",
-  "static/js/1.d88e26f3.chunk.js": "/static/js/1.d88e26f3.chunk.js",
-  "static/js/1.d88e26f3.chunk.js.map": "/static/js/1.d88e26f3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.d6da65c5.chunk.css.map": "/static/css/1.d6da65c5.chunk.css.map",
-  "static/css/main.91c86a65.chunk.css.map": "/static/css/main.91c86a65.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.474850bef260422a23360136bf6e427a.js": "/precache-manifest.474850bef260422a23360136bf6e427a.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/dex-exchange/static/css/main.91c86a65.chunk.css",
+  "main.js": "/dex-exchange/static/js/main.0242feda.chunk.js",
+  "main.js.map": "/dex-exchange/static/js/main.0242feda.chunk.js.map",
+  "static/css/1.d6da65c5.chunk.css": "/dex-exchange/static/css/1.d6da65c5.chunk.css",
+  "static/js/1.d88e26f3.chunk.js": "/dex-exchange/static/js/1.d88e26f3.chunk.js",
+  "static/js/1.d88e26f3.chunk.js.map": "/dex-exchange/static/js/1.d88e26f3.chunk.js.map",
+  "runtime~main.js": "/dex-exchange/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/dex-exchange/static/js/runtime~main.229c360f.js.map",
+  "static/css/1.d6da65c5.chunk.css.map": "/dex-exchange/static/css/1.d6da65c5.chunk.css.map",
+  "static/css/main.91c86a65.chunk.css.map": "/dex-exchange/static/css/main.91c86a65.chunk.css.map",
+  "index.html": "/dex-exchange/index.html",
+  "precache-manifest.474850bef260422a23360136bf6e427a.js": "/dex-exchange/precache-manifest.474850bef260422a23360136bf6e427a.js",
+  "service-worker.js": "/dex-exchange/service-worker.js"
 }
